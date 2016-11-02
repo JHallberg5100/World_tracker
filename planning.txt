@@ -1,0 +1,17 @@
+The purpose of the World Tracker is to make my campaign run effortlessly.  It will provide both computation and random selection of events to allow
+the world to evolve in a hands off manner, as well as provide tracking of lore and party supplies.
+Major characters will be tracked, as well as their own resources and supplies.  The organizations will also be represented.
+
+I believe we can do this is modules, though I am not yet aware of how to do this.
+
+Module 1- Lorebox
+The Lorebox is the referance for any information I could need on the topic.  It will have the ability to scrub all my text files for names, as well as present
+organized lists and quick access to data dumps.  Whenever I need something for a session, a few key strokes should deliever it up to me.
+
+Module 2- Diplomancer
+The Diplomancer tracks the relations between all existing organizations in the world and also how strong they individually are.  Resources, arms, and morale.
+This applies to nationstates, organizations within nation states, churches, and tribes.
+
+Module 3- Partybuddy
+This will be totally focused on the party themselves.  What they know, their current quests, quests they can take, etc.  It will likely link to their own
+units in the Diplomancer.  The at a glace should show me everything the party has, whatever favors they are owed, and just what resources they can draw on.
